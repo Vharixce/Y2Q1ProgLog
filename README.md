@@ -16,3 +16,4 @@ Toen ik net thuis kwam, kwam ik er achter dat ik op 'commit changes' moest drukk
 
 
 9 okt:
+Bij CakePHP de controller/viewer gemaakt. Nieuwe bestandjes aangemaakt die een test variabele doorsturen en toont op een aparte pagina op de website.
