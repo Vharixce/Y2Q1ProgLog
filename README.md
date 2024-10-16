@@ -21,3 +21,6 @@ Bij CakePHP de controller/viewer gemaakt. Nieuwe bestandjes aangemaakt die een t
 
 14 okt:
 Ik heb de ERD gemaakt en gelijk feedback geïmplementeerd in het visuele model.
+
+16 okt:
+ik heb de database gelinkt, de site laat nu dummy info zien op de site. Ook gebruik ik resource ipv get::
