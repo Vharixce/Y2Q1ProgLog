@@ -28,3 +28,6 @@ ik heb de database gelinkt, de site laat nu dummy info zien op de site. Ook gebr
 22 okt:
 ik heb de CRUD geprobeert te laten werken, ik heb wel nog wat errors maar het begin is er!
 
+23 okt:
+de create van de crud werkt eindelijk
+
