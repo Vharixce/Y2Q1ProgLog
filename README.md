@@ -31,3 +31,6 @@ ik heb de CRUD geprobeert te laten werken, ik heb wel nog wat errors maar het be
 23 okt:
 de create van de crud werkt eindelijk
 
+27 okt:
+details page werkt, dus als je op 'meer details' drukt bij een item dan krijg je meerdere eigenschappen te zien.
+
