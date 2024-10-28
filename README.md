@@ -34,3 +34,6 @@ de create van de crud werkt eindelijk
 27 okt:
 details page werkt, dus als je op 'meer details' drukt bij een item dan krijg je meerdere eigenschappen te zien.
 
+28 okt:
+delete button toegevoegd per item. Ik heb de styling van de knoppen geprobeert aan te passen in app.css, maar kennelijk werkt het anders omdat breeze/tailwind is geinstalleerd in het project, dus ga ik even niet de styling doen aangezien het gecompliceerder lijkt.
+
