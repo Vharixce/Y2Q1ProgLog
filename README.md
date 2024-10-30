@@ -37,3 +37,6 @@ details page werkt, dus als je op 'meer details' drukt bij een item dan krijg je
 28 okt:
 delete button toegevoegd per item. Ik heb de styling van de knoppen geprobeert aan te passen in app.css, maar kennelijk werkt het anders omdat breeze/tailwind is geinstalleerd in het project, dus ga ik even niet de styling doen aangezien het gecompliceerder lijkt.
 
+30 okt:
+filteren met knoppen per class en met invulveld is werkend. login/register knoppen zijn in de layour.blade.
+
