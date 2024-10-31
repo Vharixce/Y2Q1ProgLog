@@ -40,3 +40,5 @@ delete button toegevoegd per item. Ik heb de styling van de knoppen geprobeert a
 30 okt:
 filteren met knoppen per class en met invulveld is werkend. login/register knoppen zijn in de layour.blade.
 
+31 okt:
+login/register dashboad werkt, en het laat het ook goed zien op de layout.blade
