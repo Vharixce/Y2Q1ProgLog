@@ -42,3 +42,6 @@ filteren met knoppen per class en met invulveld is werkend. login/register knopp
 
 31 okt:
 login/register dashboad werkt, en het laat het ook goed zien op de layout.blade
+
+2-3 nov:
+alles afgemaakt, eigen pagine als je admin bent, waar je active/deactivate buttons hebt per item, je hebt validatie die je moet doen als je een nieuwe gebruiker bent. Als je niet bent ingelogt kan je niets toeveoegen. etc etc. Het is klaar!
